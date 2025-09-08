@@ -1,5 +1,6 @@
 ##Optimal Crossing Strategy:
 
+
 ##Crossing Plan:
 
 
@@ -12,6 +13,8 @@ C and D cross → 10 minutes (C and D are on the far side).
 B returns → 2 minutes (B comes back with the torch).
 
 A and B cross again → 2 minutes (A and B cross again together).
+
+
 
 ##Total Time:
 
@@ -27,6 +30,8 @@ Step 4: 2 min
 Step 5: 2 min
 
 Total = 17 minutes
+
+
 
 ##Reasoning:
 

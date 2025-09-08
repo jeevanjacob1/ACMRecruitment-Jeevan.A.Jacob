@@ -21,6 +21,6 @@ Step 5: 2 min
 
 >The key to solving this efficiently is minimizing the number of times the two slowest people (C and D) cross the bridge. The optimal strategy sends the two fastest people (A and B) back and forth to minimize the return trip time. This way, the slowest pair only crosses once, and the torch is always returned quickly.
 
-Any strategy that involves C or D returning the torch adds 7 or 10 extra minutes, which is inefficient.
+>Any strategy that involves C or D returning the torch adds 7 or 10 extra minutes, which is inefficient.
 
->so, Optimal total time: 17 minutes
+so, Optimal total time: 17 minutes

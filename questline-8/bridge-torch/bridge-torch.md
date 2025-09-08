@@ -1,6 +1,6 @@
 #Optimal Crossing Strategy:
 
->>Crossing Plan:
+#Crossing Plan:
 
 >A and B cross → 2 minutes (A and B are on the far side)
 >A returns → 1 minute (A comes back with the torch)

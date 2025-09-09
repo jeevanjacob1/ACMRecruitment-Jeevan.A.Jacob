@@ -1,0 +1,14 @@
+**Original Bug:**
+The function assumed all values are unique and initialized 'largest' and 'second' to a fixed low value (-9999999), which may not work for all input ranges.
+
+**Problem:**
+- If all numbers are negative and lower than -9999999, the function gives wrong results.
+- Duplicates are not handled properly (e.g., [10, 10, 10] returns 10 instead of an error or notice).
+- It doesn't check whether the list has at least 2 unique values.
+
+**Fix:**
+- Used `set()` to eliminate duplicates.
+- Checked if there are at least two unique numbers.
+- Sorted the unique list and returned the second element.
+     :BY,  JEEVAN A JACOB
+           AM.SC.U4CSE25324
